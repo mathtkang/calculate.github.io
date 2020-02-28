@@ -25,6 +25,7 @@ for(i=0; i<td.length; i++){
         } else {
             flag = false
         }
+        //
     }
 }
 var ac = document.querySelector('.ac')
